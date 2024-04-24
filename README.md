@@ -21,6 +21,8 @@ Python, Java, C
 ## Work Experience
 
 ## Projects
+**Predicting Nashik Weather**
+
 
 ## My journey into Machine Learning 
 
