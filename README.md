@@ -45,6 +45,7 @@ This project was built as a part of the ZTM course - "Complete AI, ML and DS Boo
 [View on GitHub](https://github.com/Shuraimi/heart-disease-project)
 
 **Bulldozer 
+
 ## My journey into Machine Learning 
 
 ## Machine Learning Carousels
