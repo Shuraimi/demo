@@ -1,5 +1,5 @@
 # Aspiring Machine Learning Engineer 
-
+[About Me](ABOUT.md)
 ### Technical Skills: 
 #### Data Science/Machine Learning/Deep Learning 
 Python, Supervised Learning algos, Unsupervised Learning algos, ANN, 
