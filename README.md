@@ -64,48 +64,19 @@ This project is also part of the course which is used to classify images of dogs
 
 I've made a few carousels on Machine Learning and shared it on LinkedIn. Below are the carousels on a few ML topics:-
 
-<details>
-<summary>AI vs ML vs DL</summary>
-(https://www.linkedin.com/posts/shuraimi_ai-vs-ml-vs-dl-activity-7058061760401997824-t6eg?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Machine Learning and it's types</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7072158619143655424?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Linear Regression</summary>
-<details>
-<summary>Simple Linear Regression</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7072937553531691008?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Multiple Linear Regression</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7077216088429617152?utm_source=share&utm_medium=member_android)
-</details>
-</details>
-<details>
-<summary>Feature Scaling</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7081296455340056576/?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Logistic Regression</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7074324898407428097?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Neural Networks</summary>
-<details>
-<summary>Part 1</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7085272885023375360?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Part 2</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7107314419843379200?utm_source=share&utm_medium=member_android)
-</details>
-<details>
-<summary>Part 3</summary>
-(https://www.linkedin.com/feed/update/urn:li:activity:7110806025804386304?utm_source=share&utm_medium=member_android)
-</details>
-</details>
+- [AI vs ML vs DL](https://www.linkedin.com/posts/shuraimi_ai-vs-ml-vs-dl-activity-7058061760401997824-t6eg?utm_source=share&utm_medium=member_android)
+- [Machine Learning and it's types](https://www.linkedin.com/feed/update/urn:li:activity:7072158619143655424?utm_source=share&utm_medium=member_android)
+- Linear Regression
+  - [Simple Linear Regression](https://www.linkedin.com/feed/update/urn:li:activity:7072937553531691008?utm_source=share&utm_medium=member_android)
+  - [Mutiple Linear Regression](https://www.linkedin.com/feed/update/urn:li:activity:7077216088429617152?utm_source=share&utm_medium=member_android)
+- [Feature Scaling](https://www.linkedin.com/feed/update/urn:li:activity:7081296455340056576/?utm_source=share&utm_medium=member_android)
+- [Logistic Regression](https://www.linkedin.com/feed/update/urn:li:activity:7074324898407428097?utm_source=share&utm_medium=member_android)
+- Neural Networks
+  - [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7085272885023375360?utm_source=share&utm_medium=member_android)
+  - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7107314419843379200?utm_source=share&utm_medium=member_android)
+  - [Part 3](https://www.linkedin.com/feed/update/urn:li:activity:7110806025804386304?utm_source=share&utm_medium=member_android)
+ 
+
 LinkedIn profile
 Github profile
 
