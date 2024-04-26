@@ -78,5 +78,6 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
  
 
 LinkedIn profile
+
 Github profile
 
