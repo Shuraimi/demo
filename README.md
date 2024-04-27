@@ -1,5 +1,10 @@
-- [About Me](./ABOUT.md)
-- [My journey into Machine Learning](./JOURNEY.md)
+<div style="text-align:center;">
+    <ul>
+        <li><a href="./ABOUT.md">About Me</a></li>
+        <li><a href="./JOURNEY.md">My journey into Machine Learning</a></li>
+    </ul>
+</div>
+
 ### Technical Skills: 
 #### Data Science/Machine Learning/Deep Learning 
 Python, Supervised Learning algos, Unsupervised Learning algos, ANN, 
@@ -77,10 +82,10 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
   - [Part 3](https://www.linkedin.com/feed/update/urn:li:activity:7110806025804386304?utm_source=share&utm_medium=member_android)
  
 <div style="display: flex; justify-content: center;">
-  [<img src="/assets/img/linkedin (1).png" alt="Alt text">](https://www.linkedin.com/in/shuraimi)
-  
+  <a href="https://www.linkedin.com/in/shuraimi">
+    <img width="30px" src="/assets/img/linkedin (1).png" alt="Alt text">
+  </a>
+  <a href="https://www.github.com/Shuraimi">
+    <img width="30px" src="/assets/img/github-sign.png" alt="Alt text">
+  </a>
 </div>
-
-
-Github profile
-
