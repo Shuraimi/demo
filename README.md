@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="margin:0 auto;">
     <ul>
         <li><a href="./ABOUT.md">About Me</a></li>
         <li><a href="./JOURNEY.md">My journey into Machine Learning</a></li>
@@ -83,9 +83,9 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
  
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/shuraimi">
-    <img width="30px" src="https://github.com/Shuraimi/demo/blob/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/linkedin%20(1).png" alt="Alt text">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/linkedin%20(1).png" alt="Alt text">
   </a>
   <a href="https://www.github.com/Shuraimi">
-    <img width="30px" src="https://github.com/Shuraimi/demo/blob/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/github-sign.png" alt="Alt text">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/github-sign.png" alt="Alt text">
   </a>
 </div>
