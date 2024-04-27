@@ -1,7 +1,10 @@
 ---
 ---
 @import "jekyll-theme-merlot";
-nav {
-  background-color:'white';
-  z-index:10
+.linkedin{
+ display: flex;
+ justify-content: center;
+}
+.linkedin img{
+  width:30px
 }
