@@ -1,4 +1,5 @@
 - [About Me](./ABOUT.md)
+- [My journey into Machine Learning](./JOURNEY.md)
 ### Technical Skills: 
 #### Data Science/Machine Learning/Deep Learning 
 Python, Supervised Learning algos, Unsupervised Learning algos, ANN, 
@@ -76,7 +77,7 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
   - [Part 3](https://www.linkedin.com/feed/update/urn:li:activity:7110806025804386304?utm_source=share&utm_medium=member_android)
  
 
-LinkedIn profile[<div class='linkedin'><img src='https://github.com/Shuraimi/demo/blob/main/assets/css/linkedin.png'/></div>](https://www.linkedin.com/in/shuraimi)
+[LinkedIn profile](https://www.linkedin.com/in/shuraimi)
 
 Github profile
 
