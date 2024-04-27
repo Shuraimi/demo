@@ -76,8 +76,11 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
   - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7107314419843379200?utm_source=share&utm_medium=member_android)
   - [Part 3](https://www.linkedin.com/feed/update/urn:li:activity:7110806025804386304?utm_source=share&utm_medium=member_android)
  
+<div style="display: flex; justify-content: center;">
+  [<img src="/assets/img/linkedin (1).png" alt="Alt text">](https://www.linkedin.com/in/shuraimi)
+  
+</div>
 
-[LinkedIn profile](https://www.linkedin.com/in/shuraimi)
 
 Github profile
 
