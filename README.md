@@ -1,5 +1,35 @@
+<style>
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: #ddd;
+}
+</style>
+
+<ul class="navbar">
+  <li><a href="./ABOUT.md">About Me</a></li>
+</ul>
+
 # Aspiring Machine Learning Engineer 
-[About Me](ABOUT.md)
+- [About Me](./ABOUT.md)
 ### Technical Skills: 
 #### Data Science/Machine Learning/Deep Learning 
 Python, Supervised Learning algos, Unsupervised Learning algos, ANN, 
