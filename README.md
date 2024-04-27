@@ -5,6 +5,20 @@
     </ul>
 </div>
 
+## About Me
+Hello 👋
+
+I am a third year undergraduate of Computer Science Engineering in Artificial Intelligence with aspirations of becoming a Machine Learning Engineer. 
+
+- As a technology enthusiast, I am always eager to learn new things and improve my skills. 
+- In my free time, I enjoy playing football, cricket, running, and spending time with my family. 
+- I have a passion for learning and exploring new things.
+- As an aspiring ML Engineer, I'm I hope to create and deploy high-performance models that deliver tangible value.
+
+To know about my journey into Machine Learning, check out the link 👇
+
+<a href="./JOURNEY.md">My journey into Machine Learning</a>
+
 ### Technical Skills: 
 #### Data Science/Machine Learning/Deep Learning 
 Python, Supervised Learning algos, Unsupervised Learning algos, ANN, 
