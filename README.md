@@ -1,14 +1,10 @@
-<div style="margin:0 auto;">
-    <ul>
-        <li><a href="./ABOUT.md">About Me</a></li>
-        <li><a href="./JOURNEY.md">My journey into Machine Learning</a></li>
-    </ul>
-</div>
+- [Projects](./PROJECTS.md)
+- [My Journey into ML](./JOURNEY.md)
 
 ## About Me
 Hello 👋
 
-I am a third year undergraduate of Computer Science Engineering in Artificial Intelligence with aspirations of becoming a Machine Learning Engineer. 
+I am a third-year undergraduate student majoring in Computer Science Engineering with a focus on Artificial Intelligence. My aspiration is to become a Machine Learning Engineer.
 
 - As a technology enthusiast, I am always eager to learn new things and improve my skills. 
 - In my free time, I enjoy playing football, cricket, running, and spending time with my family. 
@@ -35,7 +31,7 @@ Python, Java, C
 ## Education
 - BTech, Computer Science Engineering in Artificial Intelligence | Gates Institute Of Technology  (_2021 - 2025_)								       		
 - Intermediate |  (_2019 - 2021_)	 			        		
-- Schooling | Carmel School  (_till 2019_)
+- Schooling   | Carmel School  (_till 2019_)
 
 ## Work Experience
 
