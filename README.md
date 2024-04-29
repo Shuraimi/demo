@@ -98,4 +98,8 @@ I've made a few carousels on Machine Learning and shared it on LinkedIn. Below a
   <a href="https://www.github.com/Shuraimi">
     <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/github-sign.png" alt="Alt text">
   </a>
+  <a href="https://www.kaggle.com/shuraimshafiullab">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/main/assets/img/rounded_corners.png" alt="Alt text">
+  </a>
+
 </div>
