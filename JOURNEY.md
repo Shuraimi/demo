@@ -1,3 +1,5 @@
+- [Home](./README.md)
+  
 # My Journey into Machine Learning
 
 I began Machine Learning in my second semester where I learnt Python, a few python libraries like Numpy, Pandas Matplotlib and Seaborn but at that time, I didn't have good understanding of these.
@@ -49,3 +51,17 @@ There are 3 projects in the course which explains throughly the workflow  we nee
 
 During this journey, I took a lot of breaks and overall this journey is of approx 2 years. 
 Currently I'm learning from the ZTM course and building a Dog Classification Project.
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/shuraimi">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/linkedin%20(1).png" alt="Alt text">
+  </a>
+  <a href="https://www.github.com/Shuraimi">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/cc9f1c96fc0e220cd90566cce7847a4041b95302/assets/img/github-sign.png" alt="Alt text">
+  </a>
+  <a href="https://www.kaggle.com/shuraimshafiullab">
+    <img width="30px" src="https://raw.githubusercontent.com/Shuraimi/demo/main/assets/img/20240430_065909_0000.png" alt="Alt text">
+  </a>
+
+</div>
+
