@@ -33,48 +33,6 @@ Python, Java, C
 - Intermediate |  (_2019 - 2021_)	 			        		
 - Schooling   | Carmel School  (_till 2019_)
 
-## Work Experience
-
-## Projects
-**Predicting Nashik Weather**
-
-The goal of this project is to predict the Weather condition of Nashik which is a multi-class classification problem.
-- The classes are Sunny ☀️, Rainy 🌧️ or partly cloudy day ☁️.
-- In this project, I've imported the data, explored it and build a model and experiment with a few different hyperparameters.
-
-[View on GitHub](https://github.com/Shuraimi/Predicting-Nashik-Weather)
-
-**Predicting age of Abalone**
-
-The goal of this project is to predict the age of Abalone given features and this is a Regression problem.
-- In this project, I've imported and explored the data and built few models and compared the performance of each
-- I've also used Optuna to tune hyperparameters.
-
-[View on GitHub](https://github.com/Shuraimi/Regression-with-Abalone-dataset)
-
-**Heart disease prediction**
-
-This project was built as a part of the ZTM course - "Complete AI, ML and DS Bootcamp".
-- This is a Classification problem used to predict whether a patient has great disease or not using features.
-- While building this project, I learnt the structure and process to follow to build any ML project.
-
-[View on GitHub](https://github.com/Shuraimi/heart-disease-project)
-
-**Bulldozer Price Prediction**
-
-This project was also built during the Complete AI, ML and DS Bootcamp course by ZTM.
-- This is a Regression problem used to predict the price of Bulldozer using features.
-- This project taught me the structure to handle any regression problem.
-
-[View on GitHub](https://github.com/Shuraimi/bulldozer-price-prediction)
-
-**Dog vision project**
-
-This project is also part of the course which is used to classify images of dogs into different classes.
-- I'm currently learning Deep Learning and Neural Networks building this project.
-
-## My journey into Machine Learning 
-
 ## Machine Learning Carousels
 
 I've made a few carousels on Machine Learning and shared it on LinkedIn. Below are the carousels on a few ML topics:-
